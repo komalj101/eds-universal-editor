@@ -213,11 +213,6 @@
     "id": "carouselitem",
     "fields": [
       {
-        "component": "text",
-        "name": "classes",
-        "label": "Add Class"
-      },
-      {
         "component": "reference",
         "valueType": "string",
         "name": "image",
