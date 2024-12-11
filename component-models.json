@@ -212,6 +212,18 @@
     ]
   },
   {
+    "id": "accordion-list",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Alt",
+        "value": ""
+      }
+    ]
+  },
+  {
     "id": "quote",
     "fields": [
       {
@@ -232,16 +244,6 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
-      }
-    ]
-  },
-  {
-    "id": "carousel-item",
-    "fields": [
-      {
-        "component": "text",
-        "name": "content",
-        "label": "Content"
       }
     ]
   }
