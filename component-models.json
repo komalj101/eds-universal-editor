@@ -213,11 +213,6 @@
     "id": "carousel-item",
     "fields": [
       {
-        "component": "reference",
-        "name": "image",
-        "label": "Image"
-      },
-      {
         "component": "text",
         "name": "content",
         "label": "Content"
