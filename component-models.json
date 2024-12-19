@@ -253,5 +253,16 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "customer-testimonial",
+    "fields": [
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "api-url",
+        "label": "API Url"
+      }
+    ]
   }
 ]
